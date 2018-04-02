@@ -1,0 +1,51 @@
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\bin\Debug\ReadExcel_And_BindToDataGrid.exe
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\bin\Debug\ReadExcel_And_BindToDataGrid.pdb
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\obj\x86\Debug\MainWindow.baml
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\obj\x86\Debug\MainWindow.g.cs
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\obj\x86\Debug\App.g.cs
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\obj\x86\Debug\ReadExcel_And_BindToDataGrid_MarkupCompile.cache
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\obj\x86\Debug\ReadExcel_And_BindToDataGrid.g.resources
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\obj\x86\Debug\ReadExcel_And_BindToDataGrid.Properties.Resources.resources
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\obj\x86\Debug\ReadExcel_And_BindToDataGrid.exe
+D:\Nilesh\Tutorial\WPF_C#\New_Tutorial\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\obj\x86\Debug\ReadExcel_And_BindToDataGrid.pdb
+D:\Employee Details\CodeScratcher\Articles\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\obj\x86\Debug\ReadExcel_And_BindToDataGrid.exe
+D:\Employee Details\CodeScratcher\Articles\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\obj\x86\Debug\ReadExcel_And_BindToDataGrid.pdb
+D:\Employee Details\CodeScratcher\Articles\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\bin\Debug\ReadExcel_And_BindToDataGrid.exe
+D:\Employee Details\CodeScratcher\Articles\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\bin\Debug\ReadExcel_And_BindToDataGrid.pdb
+D:\Employee Details\CodeScratcher\Articles\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Employee Details\CodeScratcher\Articles\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\obj\x86\Debug\MainWindow.baml
+D:\Employee Details\CodeScratcher\Articles\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\obj\x86\Debug\MainWindow.g.cs
+D:\Employee Details\CodeScratcher\Articles\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\obj\x86\Debug\App.g.cs
+D:\Employee Details\CodeScratcher\Articles\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\obj\x86\Debug\ReadExcel_And_BindToDataGrid_MarkupCompile.cache
+D:\Employee Details\CodeScratcher\Articles\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\obj\x86\Debug\ReadExcel_And_BindToDataGrid.g.resources
+D:\Employee Details\CodeScratcher\Articles\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\obj\x86\Debug\ReadExcel_And_BindToDataGrid.Properties.Resources.resources
+D:\Employee Details\CodeScratcher\Articles\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Employee Details\CodeScratcher\Articles\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Jay_Projects\Demo Examples\cs demo\demo project\Posting Articles\C# Read Excel and Show in WPF DataGrid\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\obj\x86\Debug\ReadExcel_And_BindToDataGrid.exe
+D:\Jay_Projects\Demo Examples\cs demo\demo project\Posting Articles\C# Read Excel and Show in WPF DataGrid\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\obj\x86\Debug\ReadExcel_And_BindToDataGrid.pdb
+D:\Jay_Projects\Demo Examples\cs demo\demo project\Posting Articles\C# Read Excel and Show in WPF DataGrid\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\bin\Debug\ReadExcel_And_BindToDataGrid.exe
+D:\Jay_Projects\Demo Examples\cs demo\demo project\Posting Articles\C# Read Excel and Show in WPF DataGrid\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\bin\Debug\ReadExcel_And_BindToDataGrid.pdb
+D:\Jay_Projects\Demo Examples\cs demo\demo project\Posting Articles\C# Read Excel and Show in WPF DataGrid\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\obj\x86\Debug\MainWindow.baml
+D:\Jay_Projects\Demo Examples\cs demo\demo project\Posting Articles\C# Read Excel and Show in WPF DataGrid\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\obj\x86\Debug\MainWindow.g.cs
+D:\Jay_Projects\Demo Examples\cs demo\demo project\Posting Articles\C# Read Excel and Show in WPF DataGrid\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\obj\x86\Debug\App.g.cs
+D:\Jay_Projects\Demo Examples\cs demo\demo project\Posting Articles\C# Read Excel and Show in WPF DataGrid\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\obj\x86\Debug\ReadExcel_And_BindToDataGrid_MarkupCompile.cache
+D:\Jay_Projects\Demo Examples\cs demo\demo project\Posting Articles\C# Read Excel and Show in WPF DataGrid\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\obj\x86\Debug\ReadExcel_And_BindToDataGrid.g.resources
+D:\Jay_Projects\Demo Examples\cs demo\demo project\Posting Articles\C# Read Excel and Show in WPF DataGrid\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\obj\x86\Debug\ReadExcel_And_BindToDataGrid.Properties.Resources.resources
+D:\Jay_Projects\Demo Examples\cs demo\demo project\Posting Articles\C# Read Excel and Show in WPF DataGrid\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\obj\x86\Debug\ReadExcel_And_BindToDataGrid.csproj.GenerateResource.Cache
+C:\Users\Matan\Desktop\ReadExcel_And_BindToDataGrid - CODE SCRATCHER\ReadExcel_And_BindToDataGrid\obj\x86\Debug\ReadExcel_And_BindToDataGrid.csprojResolveAssemblyReference.cache
+C:\Users\Matan\Desktop\ReadExcel_And_BindToDataGrid - CODE SCRATCHER\ReadExcel_And_BindToDataGrid\obj\x86\Debug\MainWindow.baml
+C:\Users\Matan\Desktop\ReadExcel_And_BindToDataGrid - CODE SCRATCHER\ReadExcel_And_BindToDataGrid\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Matan\Desktop\ReadExcel_And_BindToDataGrid - CODE SCRATCHER\ReadExcel_And_BindToDataGrid\obj\x86\Debug\App.g.cs
+C:\Users\Matan\Desktop\ReadExcel_And_BindToDataGrid - CODE SCRATCHER\ReadExcel_And_BindToDataGrid\obj\x86\Debug\ReadExcel_And_BindToDataGrid_MarkupCompile.cache
+C:\Users\Matan\Desktop\ReadExcel_And_BindToDataGrid - CODE SCRATCHER\ReadExcel_And_BindToDataGrid\obj\x86\Debug\ReadExcel_And_BindToDataGrid.g.resources
+C:\Users\Matan\Desktop\ReadExcel_And_BindToDataGrid - CODE SCRATCHER\ReadExcel_And_BindToDataGrid\obj\x86\Debug\ReadExcel_And_BindToDataGrid.Properties.Resources.resources
+C:\Users\Matan\Desktop\ReadExcel_And_BindToDataGrid - CODE SCRATCHER\ReadExcel_And_BindToDataGrid\obj\x86\Debug\ReadExcel_And_BindToDataGrid.csproj.GenerateResource.Cache
+C:\Users\Matan\Desktop\ReadExcel_And_BindToDataGrid - CODE SCRATCHER\ReadExcel_And_BindToDataGrid\obj\x86\Debug\ReadExcel_And_BindToDataGrid.exe
+C:\Users\Matan\Desktop\ReadExcel_And_BindToDataGrid - CODE SCRATCHER\ReadExcel_And_BindToDataGrid\obj\x86\Debug\ReadExcel_And_BindToDataGrid.pdb
+C:\Users\Matan\Desktop\ReadExcel_And_BindToDataGrid - CODE SCRATCHER\ReadExcel_And_BindToDataGrid\bin\Debug\ReadExcel_And_BindToDataGrid.exe
+C:\Users\Matan\Desktop\ReadExcel_And_BindToDataGrid - CODE SCRATCHER\ReadExcel_And_BindToDataGrid\bin\Debug\ReadExcel_And_BindToDataGrid.pdb
+G:\My Drive\calc proj\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\obj\x86\Debug\ReadExcel_And_BindToDataGrid.exe
+G:\My Drive\calc proj\ReadExcel_And_BindToDataGrid\ReadExcel_And_BindToDataGrid\obj\x86\Debug\ReadExcel_And_BindToDataGrid.pdb
